@@ -4,8 +4,8 @@ Mentorship Goals Needed To Finish
 
 ## CSS
 
-- [# ] Flex Box
-- [# ] CSS Grid
+- [x] Flex Box
+- [x] CSS Grid
 - [ ] Transform
 - [ ] Animation
 - [ ] Media Queries
@@ -59,7 +59,7 @@ Mentorship Goals Needed To Finish
 
 ## Designs
 
-- [ #] Template 1 [HTML + CSS]
+- [x] Template 1 [HTML + CSS]
 - [ ] Template 2 [HTML + CSS]
 - [ ] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
@@ -82,7 +82,7 @@ Mentorship Goals Needed To Finish
 
 ## Save Time Skills
 
-- [ ] SASS
+- [x] SASS
 - [ ] Pugjs
 - [ ] One Of The Task Runners
 
@@ -94,32 +94,8 @@ Mentorship Goals Needed To Finish
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
-## Peoples Checklist
+## javascript method
 
-- [ ] Ahmed Ezz
-- [ ] Ahmed Darwish
-- [ ] Amr Hendawy
-- [ ] Anas Qasem
-- [ ] Ayman Ali
-- [ ] Ayman Taha
-- [ ] Elsayed Gamal
-- [ ] Hagar Khalid
-- [ ] Hassan Ahmed Mustafa
-- [ ] Heba Gamal
-- [ ] Houssam Sabbabi
-- [ ] Karam Ayed
-- [ ] Lobna Nasser
-- [ ] Mahmoud Ali
-- [ ] Mohamed Ahmed Shawky
-- [ ] Mohamed Amr Barakat
-- [ ] Mohamed Mustafa Abugad
-- [ ] Mohamed Salah
-- [ ] Naglaa Saber
-- [ ] Nahla Khaireldeen
-- [ ] Nour Atef
-- [ ] Noura Nabil
-- [ ] Radwa Omar
-- [ ] Remon Lotfy
-- [ ] Salwa Sayed Younes
-- [ ] Sami Albakour
-- [ ] Shaimaa Ramadan
+- [ ] lenght
+- [ ] trim
+ 
