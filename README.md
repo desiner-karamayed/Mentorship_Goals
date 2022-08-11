@@ -7,17 +7,17 @@ Mentorship Goals Needed To Finish
 - [x] Flex Box
 - [x] CSS Grid
 - [x] Transform
-- [ ] Animation
-- [ ] Media Queries
+- [x] Animation
+- [x] Media Queries
 - [x] Grid System
 - [x] Create Your Framework || UI Kit
 
 ## JavaScript
 
 - [ ] DOM
-- [ ] Higher Order Functions
+- [x] Higher Order Functions
 - [ ] Destructuring
-- [ ] Scope
+- [x] Scope
 - [ ] Local Storage
 - [ ] Object Oriented Programming
 - [ ] Prototype
@@ -60,8 +60,8 @@ Mentorship Goals Needed To Finish
 ## Designs
 
 - [x] Template 1 [HTML + CSS]
-- [ ] Template 2 [HTML + CSS]
-- [ ] Template 3 [HTML + CSS]
+- [x] Template 2 [HTML + CSS]
+- [x] Template 3 [HTML + CSS]
 - [ ] Template 4 [HTML + CSS + JS]
 - [ ] Dashboard [HTML + CSS + JS]
 
