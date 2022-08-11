@@ -53,10 +53,72 @@ Mentorship Goals Needed To Finish
 
 ### Front-End Mentors 15 Challenges
 
-- [ ] 5
+- [x] 5
 - [ ] 5
 - [ ] 5
 
+
+********************* front-end-challenges   *********************
+  ### very Easy
+- [ ] Design 1 
+- [ ] Design 2
+- [ ] Design 3
+- [ ] Design 4
+- [ ] Design 5
+- [ ] Design 6
+- [ ] Design 7
+- [ ] Design 8
+- [ ] Design 9
+- [ ] Design 10
+
+###   Easy 
+- [ ] Design 1 
+- [ ] Design 2
+- [ ] Design 3
+- [ ] Design 4
+- [ ] Design 5
+- [ ] Design 6
+- [ ] Design 7
+- [ ] Design 8
+- [ ] Design 9
+- [ ] Design 10
+- [ ] Design 11 
+- [ ] Design 12
+- [ ] Design 13
+- [ ] Design 14
+- [ ] Design 15
+- [ ] Design 16
+- [ ] Design 17
+- [ ] Design 18
+- [ ] Design 19 
+- [ ] Design 20
+- [ ] Design 21
+- [ ] Design 22
+- [ ] Design 23
+- [ ] Design 24
+- [ ] Design 25
+- [ ] Design 26 
+- [ ] Design 27
+- [ ] Design 28
+- [ ] Design 29
+
+###   Meduim 
+- [ ] Design 1 
+- [ ] Design 2
+- [ ] Design 3
+- [ ] Design 4
+- [ ] Design 5
+- [ ] Design 6
+- [ ] Design 7
+- [ ] Design 8
+
+###   Hard 
+- [ ] Design 1 
+- [ ] Design 2
+
+###   Very Hard 
+- [ ] Design 1 
+ 
 ## Designs
 
 - [x] Template 1 [HTML + CSS]
@@ -94,13 +156,13 @@ Mentorship Goals Needed To Finish
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
-## javascript method
+********************* javascript method*********************
 
 - [ ] lenght
 - [ ] trim
  #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
-## javascript-bootcamp-2021-study-plan
+********************* javascript-bootcamp-2021-study-plan*********************
 
 - [x] Week 1 
 - [x] Week 2
